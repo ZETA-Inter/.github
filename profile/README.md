@@ -1,5 +1,5 @@
 
-# ZETA
+# ZETA - A Tecnologia a Favor dos Animais
 
 ## Sobre o aplicativo
 ZETA é um aplicativo que oferece treinamentos para produtores do setor pecuário, permitindo o acesso a cursos sobre diversos segmentos e áreas de atuação.
@@ -38,8 +38,15 @@ Para o desenvolvimento desse projeto, utilizamos as seguintes linguagens:
 Desenvolvido com dedicação pela equipe de tecnologia ZETA:
 - [Alisson Alves dos Santos Oliveira](https://github.com/Alisson1471)
 - [Bianca Dorta Clarindo](https://github.com/BiaClarindo)
+- [Caio Mezini de Paula Machado](https://github.com/caiomezini)
+- [Davi Dias Abade Carriuolo](https://github.com/pjz3650)
+- [João Pedro Araujo de Souza](https://github.com/JoaoSouzera)
 - [Júlia Queiroz Cardoso Porfírio](https://github.com/juliaporf)
 - [Laura Francisco Távora](https://github.com/LauraTavora)
+- [Lucas de Carvalho Ramos](https://github.com/LucasRamosDeCarvalho)
+- [Matheus Rezende Nascimento Raimundo](https://github.com/MatheussRezende)
+- [Nicolas Vlad Koyama de Oliveira](https://github.com/Nicolas25vlad)
+- [Raphaely Mendes Sales](https://github.com/raphaxnz)
 - [Raquel Tolomei](https://github.com/RaquelTolomei)  
 - [Sofia Rodrigues Santana](https://github.com/SofiaRSantana)  
 - [Sophia Laurindo Gasparetto](https://github.com/sosogasp)  
@@ -55,9 +62,3 @@ Para mais informações ou suporte, entre em contato através de nosso site ou e
 
 Todos os direitos reservados.
 Este software é protegido por leis de direitos autorais. Não é permitida a cópia, distribuição ou modificação sem permissão do autor.
-
-
-
-
-
-
